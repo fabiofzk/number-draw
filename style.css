@@ -58,3 +58,13 @@ input {
     margin: 10px 15px 40px;
     
 }
+
+@media (max-width:750px) {
+    img {
+        width: 375px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+}
